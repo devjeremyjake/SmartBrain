@@ -1,0 +1,6 @@
+.Tilt {
+	background: linear-gradient(59deg, #a463f2 40%, #00449e 60% );
+	speed: 300;
+	easing: "cubic-bezier(.03,.98,.52,.99)";
+	reset: true;
+}  

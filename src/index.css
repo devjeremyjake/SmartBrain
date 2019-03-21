@@ -6,7 +6,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(89deg, #FF5EDF 0%, )
+  background: linear-gradient(59deg, #a463f2 40%, #00449e 60% );
+}
+
+button {
+  cursor: pointer;
 }
 
 code {
